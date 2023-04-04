@@ -29,4 +29,4 @@ To complete this project, several APIs and Python libraries were used. Documenta
 - `Test_Comments_with_API_Scores.csv`: This is the set of test comments and the related attributes
 
 ## Results
-It was determined that the API is effective in scoring toxicity when profanity is censored. There are several implications and conclusions that can be drawn from this, more details are in `Data_Bias~Code.ipynb` under **2. Results and Insights**
+It was determined that the API is effective in scoring toxicity when profanity is censored. There are several implications and conclusions that can be drawn from this, more details are in `Data_Bias_Code.ipynb` under **2. Results and Insights**
