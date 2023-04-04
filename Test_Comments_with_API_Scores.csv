@@ -1,0 +1,13 @@
+,comment,profane or censored,api_score,predicted toxicity,actual
+0,You are a complete asshole,profane,0.9391453,TOXIC,TOXIC
+1,The person in this video is a crazy bitch,profane,0.9563754,TOXIC,TOXIC
+2,Whoever commented before me is a fucking cunt,profane,0.96426713,TOXIC,TOXIC
+3,This article is complete bullshit,profane,0.9248995,TOXIC,TOXIC
+4,"Go to hell you bitch, nobody wants to hear your shit",profane,0.9749944,TOXIC,TOXIC
+5,THIS PERSON IS A HORRID BASTARD,profane,0.9391453,TOXIC,TOXIC
+6,You are a complete a*****e,censored,0.5559701,TOXIC,TOXIC
+7,The person in this video is a crazy b***h,censored,0.85333383,TOXIC,TOXIC
+8,Whoever commented before me is a f*****g c**t,censored,0.8696708,TOXIC,TOXIC
+9,This article is complete b******t,censored,0.687436,TOXIC,TOXIC
+10,"Go to h**l you b***h, nobody wants to hear your s**t",censored,0.91625386,TOXIC,TOXIC
+11,THIS PERSON IS A HORRID B*****D,censored,0.8540474,TOXIC,TOXIC
